@@ -1,0 +1,6 @@
+streamlit
+numpy
+PIL
+joblib
+requests
+io
