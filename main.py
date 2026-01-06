@@ -109,4 +109,4 @@ st.sidebar.write("""
 """)
 
 
-[Image of neural network backpropagation diagram]    
+# [Image of neural network backpropagation diagram]    
